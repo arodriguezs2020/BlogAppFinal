@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "837261359160",
+    "project_id": "blogapp-dfc72",
+    "storage_bucket": "blogapp-dfc72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837261359160:android:79e3f36baf427144aa8ecd",
+        "android_client_info": {
+          "package_name": "es.alvarorodriguez.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837261359160-jm396o0qp532k9vi1de30d1efeb1dqv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdnjcdMWtUVOfN1-HngVLyvkGGOw91Lsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837261359160-jm396o0qp532k9vi1de30d1efeb1dqv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837261359160:android:527fb4b3925dff4daa8ecd",
+        "android_client_info": {
+          "package_name": "es.alvarorodriguez.blogappfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837261359160-jm396o0qp532k9vi1de30d1efeb1dqv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdnjcdMWtUVOfN1-HngVLyvkGGOw91Lsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837261359160-jm396o0qp532k9vi1de30d1efeb1dqv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
